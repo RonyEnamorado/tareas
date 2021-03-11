@@ -31,9 +31,9 @@ this.Color=Color;
       System.out.println("Establecer color :"+color);
    }
 
-    public void Calcular_Color() {
+
      
 
-    public void Dibujar(){
+   
         
 }

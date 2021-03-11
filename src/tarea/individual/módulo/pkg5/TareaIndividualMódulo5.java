@@ -17,9 +17,7 @@ public class TareaIndividualMódulo5 {
                 figura_circulo.Dibujar();
                 
                 
-         Linea figura_linea=new Linea(3);
-               figura_linea.Calcular_Largo();
-               figura_linea.Dibujar();
+     
                
         Triangulo figura_triangulo=new Triangulo(9);
                   figura_triangulo.Calcular_Angulo();

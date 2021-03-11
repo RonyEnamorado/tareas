@@ -20,11 +20,9 @@ public class Linea extends Formas {
   
     public void setLargo(double largo) {
         this.largo = largo;
+        System.out.println("El largo es :"+getLargo());
     }
-     System.out.println("El largo es :"+getLargo());
+     
 
-    public void Calcular_Largo() {
-        
-    
-    public void Dibujar(){
+  
        }
